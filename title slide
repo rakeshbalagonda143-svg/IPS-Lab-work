@@ -1,0 +1,24 @@
+\documentclass{beamer}
+
+\usetheme{Madrid} % you can change theme: Madrid, Warsaw, Berlin, etc.
+
+\title[Short Title]{jain university}
+\subtitle{(deemed to be university)}
+\author[B. rakesh roshan]{B.rakesh roshan\\
+Application No.: JUUG25BTECH18861}
+\institute{jain university}
+\date{\today} % or write a fixed date like: 12 December 2025
+
+\begin{document}
+
+% ---------- Title Slide ----------
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% ---------- Sample Content Slide ----------
+\begin{frame}{Introduction}
+  This is your first content slide.
+\end{frame}
+
+\end{document}
